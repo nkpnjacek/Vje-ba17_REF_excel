@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Transaction",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "g10dah1y00CZ39IvsMaR9g",
+  "Reference": "ObyrPcV47EGbzyWt2ApALg/g10dah1y00CZ39IvsMaR9g",
+  "ParentRef": "ObyrPcV47EGbzyWt2ApALg/5eRKrkYcSUiVYH7ef_DLJQ",
+  "Created": "2025-12-15T09:09:02.1542544Z",
+  "Updated": "2025-12-15T09:09:02.1542544Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

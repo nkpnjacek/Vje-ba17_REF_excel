@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aA4jnNTix0SsrSpX-BCNGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ea706b0d-1e85-40c8-9fe4-424ca37633dc" CvElementArea="39, 187, 20, 20" CvTextArea="63, 190, 85, 17" CvTextArgument="Split Deposit" CvType="RadioButton" DesignTimeRectangle="41, 189, 108, 18" ElementType="RadioButton" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Split Deposit' role='radio button' /&gt;" Guid="3e3e87f6-8696-41f7-984f-55ad43f1329d" ScopeSelectorArgument="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ea706b0d-1e85-40c8-9fe4-424ca37633dc" CvTextArea="20, 107, 86, 15" CvTextArgument="Transaction" CvType="Text" DesignTimeRectangle="22, 107, 84, 19" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Transaction' role='text' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Transaction' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Transaction' /&gt;" Guid="b298f287-c4dd-4052-b18a-980de655aacf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a18e2abfb9c7e7b9c510fd353a3c427c.png" xmlns="">0AhqVZctOiUSAZMhZYpxNjg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
